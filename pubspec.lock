@@ -54,7 +54,7 @@ packages:
     description:
       path: "."
       ref: HEAD
-      resolved-ref: "8c6a15def9b8fced77250007dd83117ad8af5cc3"
+      resolved-ref: "29df07c2479303fbc2c46b05ea2e41337afad521"
       url: "https://github.com/ElegantCrab/db_viewer_fork"
     source: git
     version: "1.0.3"
@@ -144,10 +144,10 @@ packages:
     dependency: "direct main"
     description:
       name: provider
-      sha256: af58e866ea76fa7d156ea5e6ffa1c28b52dabff5c87fbdf265f7c6adaa7a741d
+      sha256: "59471e0a4595e264625d3496af567ac85bdae1148ec985aff1e0555786f53ecf"
       url: "https://pub.dev"
     source: hosted
-    version: "4.3.3"
+    version: "5.0.0"
   sky_engine:
     dependency: transitive
     description: flutter

@@ -9,12 +9,11 @@ environment:
 
 dependencies:
   db_viewer:
-    git:
-      url: https://github.com/ElegantCrab/db_viewer_fork
+    git: https://github.com/ElegantCrab/db_viewer_fork
   drift: ^2.0.1
   flutter:
     sdk: flutter
-  provider: ^4.3.2+2
+  provider: 5.0.0
 
 dev_dependencies:
   flutter_test:
