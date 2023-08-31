@@ -1,6 +1,6 @@
 name: drift_db_viewer
 description: A package to view your drift database in your own app with filtering and without the need of exporting your db file.
-version: 1.0.3
+version: 2.0.0
 homepage: https://github.com/vanlooverenkoen/db_viewer/drift_db_viewer
 
 environment:
@@ -11,7 +11,7 @@ dependencies:
   db_viewer:
     git:
       url: https://github.com/ElegantCrab/db_viewer_fork
-  drift: ^1.3.0
+  drift: ^2.0.1
   flutter:
     sdk: flutter
   provider: ^4.3.2+2
